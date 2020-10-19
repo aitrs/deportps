@@ -1,0 +1,21 @@
+{
+  "name": "deportps",
+  "version": "1.0.0",
+  "description": "Small deported process/performance log engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dorian Vuolo",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "crypto": "^1.0.1",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.5",
+    "nodeplotlib": "^0.6.5",
+    "randomstring": "^1.1.5",
+    "sqlite3": "^5.0.0",
+    "subtle-crypto": "0.0.0"
+  }
+}
